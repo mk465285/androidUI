@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+	  	<item name="android:colorPrimary">@color/skyblue</item>
+		<item name="android:colorPrimaryDark">@color/skyblue</item>
+		
+		<item name="android:colorAccent">@color/skyblue</item> 
+	<!--	按钮颜色<item name="android:colorButtonNormal">#ff009688</item>
+		-->
+		</style>
+</resources>
