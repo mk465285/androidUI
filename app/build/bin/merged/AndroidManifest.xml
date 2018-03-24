@@ -8,7 +8,6 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="21" />
 
-    <application android:name="cn.android.UI" >
-    </application>
+    <application />
 
 </manifest>
